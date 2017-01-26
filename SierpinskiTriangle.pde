@@ -6,7 +6,6 @@ boolean up = true;
 public void setup()
 {
 	size(600, 600);
-	frameRate(30);
 }
 public void draw()
 {
